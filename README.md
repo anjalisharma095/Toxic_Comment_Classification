@@ -1,5 +1,7 @@
 # Toxic_Comment_Classification
 
+Dataset: https://drive.google.com/file/d/1xNzvONLQiIFePgXDCFRnnyTnBDaZBEJr/view?usp=sharing
+
 The goal of this project is to create a classifier model that can predict if input text is inappropriate (toxic).
 1. Explore the dataset to get a better picture of how the labels are distributed, how they correlate with each
 other, and what defines toxic or clean comments.
